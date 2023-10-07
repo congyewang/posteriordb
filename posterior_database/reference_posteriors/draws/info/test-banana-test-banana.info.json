@@ -1,0 +1,44 @@
+{
+  "name": "test-banana-test-banana",
+  "inference": {
+    "method": "stan_sampling",
+    "method_arguments": {
+      "chains": 10,
+      "iter": 40000,
+      "warmup": 30000,
+      "thin": 10,
+      "seed": 4711,
+      "control": {
+        "adapt_delta": 0.92
+      }
+    }
+  },
+  "diagnostics": {
+    "diagnostic_information": {
+      "names": ["x[1]", "x[2]"]
+    },
+    "ndraws": 10000,
+    "nchains": 10,
+    "effective_sample_size_bulk": [7969.01978547003, 9222.0541545188],
+    "effective_sample_size_tail": [8010.92368704975, 8710.79313087812],
+    "r_hat": [0.999913394034352, 1.00016306296838],
+    "divergent_transitions": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "expected_fraction_of_missing_information": [1.95474343487688, 1.86351451827915, 1.88341102406222, 1.93578069233647, 2.09476224377553, 1.96501202252434, 1.82837588136394, 2.04951873110528, 1.97608268650318, 1.98637869688226]
+  },
+  "checks_made": {
+    "ndraws_is_10k": true,
+    "nchains_is_gte_4": true,
+    "ess_within_bounds": true,
+    "r_hat_below_1_01": true,
+    "efmi_above_0_2": true
+  },
+  "comments": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07",
+  "versions": {
+    "rstan_version": "rstan 2.26.23",
+    "r_Makevars": "[Could not find Makevar file]",
+    "r_version": "R version 4.3.1 (2023-06-16 ucrt)",
+    "r_session": "R version 4.3.1 (2023-06-16 ucrt)\nPlatform: x86_64-w64-mingw32/x64 (64-bit)\nRunning under: Windows 11 x64 (build 22621)\n\nMatrix products: default\n\n\nlocale:\n[1] LC_COLLATE=Chinese (Simplified)_China.utf8 \n[2] LC_CTYPE=Chinese (Simplified)_China.utf8   \n[3] LC_MONETARY=Chinese (Simplified)_China.utf8\n[4] LC_NUMERIC=C                               \n[5] LC_TIME=Chinese (Simplified)_China.utf8    \n\ntime zone: Europe/London\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nother attached packages:\n[1] rstan_2.26.23       StanHeaders_2.26.28 posteriordb_0.3.2  \n\nloaded via a namespace (and not attached):\n [1] gtable_0.3.4         jsonlite_1.8.7       dplyr_1.1.3         \n [4] compiler_4.3.1       crayon_1.5.2         tidyselect_1.2.0    \n [7] Rcpp_1.0.11          parallel_4.3.1       gridExtra_2.3       \n[10] callr_3.7.3          scales_1.2.1         yaml_2.3.7          \n[13] ggplot2_3.4.3        R6_2.5.1             generics_0.1.3      \n[16] distributional_0.3.2 backports_1.4.1      checkmate_2.2.0     \n[19] tibble_3.2.1         munsell_0.5.0        posterior_1.4.1     \n[22] pillar_1.9.0         rlang_1.1.1          utf8_1.2.3          \n[25] inline_0.3.19        RcppParallel_5.1.7   cli_3.6.1           \n[28] magrittr_2.0.3       ps_1.7.5             grid_4.3.1          \n[31] processx_3.8.2       rstudioapi_0.15.0    lifecycle_1.0.3     \n[34] prettyunits_1.2.0    vctrs_0.6.3          tensorA_0.36.2      \n[37] glue_1.6.2           farver_2.1.1         QuickJSR_1.0.6      \n[40] codetools_0.2-19     abind_1.4-5          stats4_4.3.1        \n[43] pkgbuild_1.4.2       fansi_1.0.4          colorspace_2.1-0    \n[46] matrixStats_1.0.0    tools_4.3.1          loo_2.6.0           \n[49] pkgconfig_2.0.3     "
+  }
+}

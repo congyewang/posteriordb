@@ -1,0 +1,11 @@
+{
+  "name": "test-banana",
+  "keywords": ["test", "banana", "gaussian"],
+  "title": "A Test Data for Banana Distribution",
+  "description": "A test data for banana distribution",
+  "urls": null,
+  "references": null,
+  "added_date": "2023-10-07",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-banana.json"
+}

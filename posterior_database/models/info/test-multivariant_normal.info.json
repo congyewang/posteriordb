@@ -1,0 +1,15 @@
+{
+  "name": "test-multivariant_normal",
+  "keywords": ["test", "multivariant_normal", "gaussian"],
+  "title": "A Test Model for Multivariant Normal Distribution",
+  "description": "A test model for multivariant normal distribution.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-multivariant_normal.stan"
+    }
+  }
+}

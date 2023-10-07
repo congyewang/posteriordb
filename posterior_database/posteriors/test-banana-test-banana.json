@@ -1,0 +1,11 @@
+{
+  "name": "test-banana-test-banana",
+  "model_name": "test-banana",
+  "data_name": "test-banana",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-multivariant_normal",
+  "keywords": ["test", "multivariant_normal", "gaussian"],
+  "title": "A Test Data for Multivariant Normal Distribution",
+  "description": "A test data for Multivariant Normal distribution",
+  "urls": null,
+  "references": null,
+  "added_date": "2023-10-07",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-multivariant_normal.json"
+}

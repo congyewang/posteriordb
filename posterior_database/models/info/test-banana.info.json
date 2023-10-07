@@ -1,0 +1,15 @@
+{
+  "name": "test-banana",
+  "keywords": ["test", "banana", "gaussian"],
+  "title": "A Test Model for Banana Distribution",
+  "description": "A test model for banana distribution.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-banana.stan"
+    }
+  }
+}

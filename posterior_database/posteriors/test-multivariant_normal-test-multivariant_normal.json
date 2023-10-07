@@ -1,0 +1,11 @@
+{
+  "name": "test-multivariant_normal-test-multivariant_normal",
+  "model_name": "test-multivariant_normal",
+  "data_name": "test-multivariant_normal",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07"
+}
