@@ -1,0 +1,11 @@
+{
+  "name": "test-annulus-test-annulus",
+  "model_name": "test-annulus",
+  "data_name": "test-annulus",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07"
+}
