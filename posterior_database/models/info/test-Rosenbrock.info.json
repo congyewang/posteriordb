@@ -1,0 +1,15 @@
+{
+  "name": "test-Rosenbrock",
+  "keywords": ["test", "Rosenbrock", "gaussian"],
+  "title": "A Test Model for Rosenbrock function",
+  "description": "A test model for Rosenbrock function.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-Rosenbrock.stan"
+    }
+  }
+}
