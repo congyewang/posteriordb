@@ -1,0 +1,15 @@
+{
+  "name": "test-cone",
+  "keywords": ["test", "cone", "gaussian"],
+  "title": "A Test Model for Cone Distribution",
+  "description": "A test model for cone distribution.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-cone.stan"
+    }
+  }
+}

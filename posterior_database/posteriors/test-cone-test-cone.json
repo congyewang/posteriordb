@@ -1,0 +1,11 @@
+{
+  "name": "test-cone-test-cone",
+  "model_name": "test-cone",
+  "data_name": "test-cone",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-07"
+}
