@@ -2,7 +2,7 @@
   "name": "test-cone-test-cone",
   "model_name": "test-cone",
   "data_name": "test-cone",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "test-cone-test-cone",
   "dimensions": {
     "x": 2
   },

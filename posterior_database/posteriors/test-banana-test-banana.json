@@ -2,7 +2,7 @@
   "name": "test-banana-test-banana",
   "model_name": "test-banana",
   "data_name": "test-banana",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "test-banana-test-banana",
   "dimensions": {
     "x": 2
   },

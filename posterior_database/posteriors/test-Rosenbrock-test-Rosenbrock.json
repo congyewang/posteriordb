@@ -2,7 +2,7 @@
   "name": "test-Rosenbrock-test-Rosenbrock",
   "model_name": "test-Rosenbrock",
   "data_name": "test-Rosenbrock",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "test-Rosenbrock-test-Rosenbrock",
   "dimensions": {
     "x": 2
   },

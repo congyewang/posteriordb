@@ -2,7 +2,7 @@
   "name": "test-normal-test-normal",
   "model_name": "test-normal",
   "data_name": "test-normal",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "test-normal-test-normal",
   "dimensions": {
     "x": 1
   },
