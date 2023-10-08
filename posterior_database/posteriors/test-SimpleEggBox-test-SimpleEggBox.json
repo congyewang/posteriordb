@@ -1,0 +1,11 @@
+{
+  "name": "test-SimpleEggBox-test-SimpleEggBox",
+  "model_name": "test-SimpleEggBox",
+  "data_name": "test-SimpleEggBox",
+  "reference_posterior_name": "test-SimpleEggBox-test-SimpleEggBox",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-08"
+}

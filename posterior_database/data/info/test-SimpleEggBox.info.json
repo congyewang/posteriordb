@@ -1,0 +1,11 @@
+{
+  "name": "test-SimpleEggBox",
+  "keywords": ["test", "SimpleEggBox", "gaussian"],
+  "title": "A Test Data for Simple Egg Box Distribution",
+  "description": "A test data for simple egg box distribution.",
+  "urls": null,
+  "references": null,
+  "added_date": "2023-10-08",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-SimpleEggBox.json"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "test-SimpleEggBox",
+  "keywords": ["test", "SimpleEggBox", "gaussian"],
+  "title": "A Test Data for Simple Egg Box Distribution",
+  "description": "A test data for simple egg box distribution.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-08",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-SimpleEggBox.stan"
+    }
+  }
+}
