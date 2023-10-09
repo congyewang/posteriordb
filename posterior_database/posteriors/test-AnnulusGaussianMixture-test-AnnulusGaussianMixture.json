@@ -1,0 +1,11 @@
+{
+  "name": "test-AnnulusGaussianMixture-test-AnnulusGaussianMixture",
+  "model_name": "test-AnnulusGaussianMixture",
+  "data_name": "test-AnnulusGaussianMixture",
+  "reference_posterior_name": "test-AnnulusGaussianMixture-test-AnnulusGaussianMixture",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-09"
+}

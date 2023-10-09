@@ -1,0 +1,11 @@
+{
+  "name": "test-AnnulusGaussianMixture",
+  "keywords": ["test", "annulus", "gaussian"],
+  "title": "A Test Data for Annulus Gaussian Mixture Distribution",
+  "description": "A test data for annulus gaussian mixture distribution.",
+  "urls": null,
+  "references": null,
+  "added_date": "2023-10-09",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-AnnulusGaussianMixture.json"
+}
