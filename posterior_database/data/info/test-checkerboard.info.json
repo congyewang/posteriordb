@@ -1,0 +1,11 @@
+{
+  "name": "test-checkerboard",
+  "keywords": ["test", "checkerboard", "uniform"],
+  "title": "A Test Data for checkerboard uniform Distribution",
+  "description": "A test data for checkerboard uniform distribution.",
+  "urls": null,
+  "references": null,
+  "added_date": "2023-10-23",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-checkerboard.json"
+}

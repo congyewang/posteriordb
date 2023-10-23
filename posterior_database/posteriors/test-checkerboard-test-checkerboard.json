@@ -1,0 +1,11 @@
+{
+  "name": "test-checkerboard-test-checkerboard",
+  "model_name": "test-checkerboard",
+  "data_name": "test-checkerboard",
+  "reference_posterior_name": "test-checkerboard-test-checkerboard",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-23"
+}

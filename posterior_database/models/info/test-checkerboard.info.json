@@ -1,0 +1,15 @@
+{
+  "name": "test-checkerboard",
+  "keywords": ["test", "checkerboard", "uniform"],
+  "title": "A Test Data for checkerboard uniform Distribution",
+  "description": "A test data for checkerboard uniform distribution.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2023-10-23",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-checkerboard.stan"
+    }
+  }
+}
