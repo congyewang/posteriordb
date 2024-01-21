@@ -1,0 +1,11 @@
+{
+  "name": "test-banana_rotation",
+  "keywords": ["test", "banana", "gaussian", "rotation"],
+  "title": "A Test Model for Rotational Banana Distribution",
+  "description": "A test model for rotational banana distribution.",
+  "urls": null,
+  "references": null,
+  "added_date": "2024-01-21",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-banana_rotation.json"
+}

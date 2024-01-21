@@ -1,0 +1,11 @@
+{
+  "name": "test-banana_rotation-test-banana_rotation",
+  "model_name": "test-banana_rotation",
+  "data_name": "test-banana_rotation",
+  "reference_posterior_name": "test-banana_rotation-test-banana_rotation",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2024-01-21"
+}
