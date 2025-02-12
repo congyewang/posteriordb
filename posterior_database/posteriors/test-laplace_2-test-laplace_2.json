@@ -1,0 +1,11 @@
+{
+  "name": "test-laplace_2-test-laplace_2",
+  "model_name": "test-laplace_2",
+  "data_name": "test-laplace_2",
+  "reference_posterior_name": "test-laplace_2-test-laplace_2",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2025-02-12"
+}
