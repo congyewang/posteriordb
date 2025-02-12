@@ -1,0 +1,15 @@
+{
+  "name": "test-laplace_4",
+  "keywords": "test_laplace",
+  "title": "A Test Data for the Laplacian 4 Model",
+  "description": "The data contain data for Laplacian 4 Model.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2025-02-12",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-laplace_4.stan"
+    }
+  }
+}
