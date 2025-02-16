@@ -1,0 +1,15 @@
+{
+  "name": "test-neals_funnel",
+  "keywords": "test_neals_funnel",
+  "title": "A Test Data for Neal's funnel Model",
+  "description": "The data contain data for Neal's funnel Model.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2025-02-16",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-neals_funnel.stan"
+    }
+  }
+}

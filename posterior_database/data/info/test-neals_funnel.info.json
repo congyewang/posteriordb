@@ -1,0 +1,11 @@
+{
+  "name": "test-neals_funnel",
+  "keywords": "test_neals_funnel",
+  "title": "A Test Data for Neal's funnel Model",
+  "description": "The data contain data for Neal's funnel Model.",
+  "urls": null,
+  "references": null,
+  "added_date": "2025-02-16",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-neals_funnel.json"
+}

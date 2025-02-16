@@ -1,0 +1,12 @@
+{
+  "name": "test-neals_funnel-test-neals_funnel",
+  "model_name": "test-neals_funnel",
+  "data_name": "test-neals_funnel",
+  "reference_posterior_name": "test-neals_funnel-test-neals_funnel",
+  "dimensions": {
+    "x": 1,
+    "y": 1
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2025-02-16"
+}
