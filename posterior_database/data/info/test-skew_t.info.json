@@ -1,0 +1,11 @@
+{
+  "name": "test-skew_t",
+  "keywords": "test_skew_t",
+  "title": "A Test Data for the Skew T Model",
+  "description": "The data contain data for Skew T Model.",
+  "urls": null,
+  "references": null,
+  "added_date": "2025-04-21",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-skew_t.json"
+}

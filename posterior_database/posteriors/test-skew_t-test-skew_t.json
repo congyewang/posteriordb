@@ -1,0 +1,11 @@
+{
+  "name": "test-skew_t-test-skew_t",
+  "model_name": "test-skew_t",
+  "data_name": "test-skew_t",
+  "reference_posterior_name": "test-skew_t-test-skew_t",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2025-04-21"
+}

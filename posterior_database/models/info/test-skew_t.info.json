@@ -1,0 +1,15 @@
+{
+  "name": "test-skew_t",
+  "keywords": "test_skew_t",
+  "title": "A Test Data for the Skew T Model",
+  "description": "The data contain data for Skew T Model.",
+  "urls": null,
+  "references": null,
+  "added_by": "Congye Wang",
+  "added_date": "2025-04-21",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/test-skew_t.stan"
+    }
+  }
+}
