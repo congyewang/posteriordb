@@ -1,0 +1,11 @@
+{
+  "name": "test-laplace_4_wide",
+  "keywords": "test_laplace",
+  "title": "A Test Data for the Laplacian 4 Model",
+  "description": "The data contain data for Laplacian 4 Model.",
+  "urls": null,
+  "references": null,
+  "added_date": "2025-05-14",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-laplace_4_wide.json"
+}
