@@ -1,0 +1,11 @@
+{
+  "name": "test-heavy_light_tail",
+  "keywords": "test_heavy_light_tail",
+  "title": "A Test Data for the Heavy Light Tail Model",
+  "description": "The data contain data for Heavy Light Tail Model.",
+  "urls": null,
+  "references": null,
+  "added_date": "2025-05-14",
+  "added_by": "Congye Wang",
+  "data_file": "data/data/test-heavy_light_tail.json"
+}

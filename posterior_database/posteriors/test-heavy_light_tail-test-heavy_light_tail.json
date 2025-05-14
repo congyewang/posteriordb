@@ -1,0 +1,11 @@
+{
+  "name": "test-heavy_light_tail-test-heavy_light_tail",
+  "model_name": "test-heavy_light_tail",
+  "data_name": "test-heavy_light_tail",
+  "reference_posterior_name": "test-heavy_light_tail-test-heavy_light_tail",
+  "dimensions": {
+    "x": 2
+  },
+  "added_by": "Congye Wang",
+  "added_date": "2025-05-14"
+}
